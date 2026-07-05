@@ -53,12 +53,6 @@ Each row represents one observation collected at a one-minute interval.
 
 The training pipeline automatically reads the room-level CSV files during preprocessing. Each file follows the same schema and can also be analysed independently.
 
-## Citation
-
-If you use this dataset in your research, please cite the accompanying publication:
-
-> Serati, R., *Deep Sequence Learning Models for Hotel Room Air Conditioner Runtime Estimation via Ambient Sensing*.
-
 ## License
 
 This dataset is distributed under the same license as the source code in this repository.
